@@ -22,3 +22,5 @@ rtmp://edge2.everyon.tv/etv2sb/phd59
 rtmp://edge2.everyon.tv/etv2sb/phd60
 #EXTINF:-1,Korea:??phd61
 rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,swisszz.blogspot.ch
+https://www.youtube.com/watch?v=m_gFzK8OQ1s&index=14&list
